@@ -1,4 +1,4 @@
-# Experiment-04-Introduction-to-Roboanalyzer-
+# Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us
 ## AIM: 
 To Design & simulate an environment for pick & place operations with Industrial Robot using Robo DK software
 ### COMPONENTS REQUIRED:
